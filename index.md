@@ -29,6 +29,8 @@ _Não confie nas seguintes frases dos seus "amigos" de jogo:_
 4. Vou no dedo
 5. Eu confio
 
+# _O PAI É BOM_
+é isso :)
 
 
 
