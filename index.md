@@ -14,13 +14,13 @@ World - Pacembra
 Vocation - Elite Knight
 Sexo - Male
 Lvl - 440
-Skill - 108 / 100
+Skills - 108 / 100
 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futikitus/Turi-mos-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
