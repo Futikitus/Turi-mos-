@@ -22,7 +22,7 @@ Skills - 108 / 100
 
 # Obeservações finais 
 
-_Não confie nas seguintes frases dos seus "amigos" de jogo:_
+_NUNCA confie nas seguintes frases dos seus "amigos" de jogo:_
 1. To curando
 2. Você tanka
 3. Bora correr 
