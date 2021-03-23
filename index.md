@@ -7,22 +7,7 @@ _Um jogo EXCELENTE para quem quer perder TODO o seu TEMPO._
 _Elite Knight segundo meu amigo "Irui" é a vocação que so precisa usar a spell (magia) "Utamo tempo"._
 
 ```markdown
-Syntax highlighted code block
-
-### Header 3
-_Character
-#### Header 4
-##### Header 5
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Turi mos
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
