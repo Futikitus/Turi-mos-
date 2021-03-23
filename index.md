@@ -1,20 +1,18 @@
-## Tibia
+# Tibia
 
-You can use the [editor on GitHub](https://github.com/Futikitus/Turi-mos-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Um jogo EXCELENTE para quem quer perder TODO o seu TEMPO._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Vocation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Elite Knight segundo meu amigo "Irui" é a vocação que so precisa usar a spell (magia) "Utamo tempo"._
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-*Character*
-## Header 2
 ### Header 3
+_Character
+#### Header 4
+##### Header 5
 
 - Bulleted
 - List
